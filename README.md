@@ -4,4 +4,4 @@ Dataset link- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/code
 
 **Workflow diagram is illustrated below :**
 
-![Methodology](Methodology.jpg)
+![Workflow Diagram](Process Model.jpg)
