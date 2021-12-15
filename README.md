@@ -9,6 +9,6 @@ Dataset link- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/code
 ## *1. Methodology* ##
 
 **Workflow diagram and DCGAN Architecture:**
-![Workflow diagram]<img src="Process_Model.jpg" width="400" height="790">
+![Workflow diagram]<img src="Process Model.jpg" width="400" height="790">
 ![DCGAN]<img src="DCGAN.jpg" width="400" height="790">
 
